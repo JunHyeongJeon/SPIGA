@@ -21,3 +21,7 @@ tmp
 
 # Dataset images
 /spiga/data/databases
+
+# skip image 
+*.png
+*.jpg
